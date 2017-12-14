@@ -1,0 +1,20 @@
+{
+  "name": "asp.net",
+  "version": "1.0.0",
+  "description": "",
+  "license": "You",
+  "dependencies": {
+    "angular": "1.6.7",
+    "angular-route": "1.6.7",
+    "bootstrap": "3.3.7",
+    "jquery": "3.2.1",
+    "moment": "2.19.4"
+  },
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "jasmine": "2.8",
+    "karma": "1.7.1",
+    "karma-jasmine": "1.1.1",
+    "karma-chrome-launcher": "2.2.0"
+  }
+}
